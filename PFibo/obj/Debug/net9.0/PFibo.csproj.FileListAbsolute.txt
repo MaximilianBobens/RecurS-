@@ -1,0 +1,14 @@
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\bin\Debug\net9.0\PFibo.exe
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\bin\Debug\net9.0\PFibo.deps.json
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\bin\Debug\net9.0\PFibo.runtimeconfig.json
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\bin\Debug\net9.0\PFibo.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\bin\Debug\net9.0\PFibo.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\refint\PFibo.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.genruntimeconfig.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\ref\PFibo.dll

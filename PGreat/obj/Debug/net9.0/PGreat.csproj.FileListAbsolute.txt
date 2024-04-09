@@ -1,0 +1,14 @@
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\bin\Debug\net9.0\PGreat.exe
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\bin\Debug\net9.0\PGreat.deps.json
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\bin\Debug\net9.0\PGreat.runtimeconfig.json
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\bin\Debug\net9.0\PGreat.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\bin\Debug\net9.0\PGreat.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\refint\PGreat.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.genruntimeconfig.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\ref\PGreat.dll

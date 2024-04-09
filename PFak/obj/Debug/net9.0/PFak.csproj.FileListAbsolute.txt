@@ -1,0 +1,14 @@
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\bin\Debug\net9.0\PFak.exe
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\bin\Debug\net9.0\PFak.deps.json
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\bin\Debug\net9.0\PFak.runtimeconfig.json
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\bin\Debug\net9.0\PFak.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\bin\Debug\net9.0\PFak.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\refint\PFak.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.genruntimeconfig.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\ref\PFak.dll

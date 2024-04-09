@@ -1,0 +1,14 @@
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\bin\Debug\net9.0\PDiv.exe
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\bin\Debug\net9.0\PDiv.deps.json
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\bin\Debug\net9.0\PDiv.runtimeconfig.json
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\bin\Debug\net9.0\PDiv.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\bin\Debug\net9.0\PDiv.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\refint\PDiv.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.genruntimeconfig.cache
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\ref\PDiv.dll

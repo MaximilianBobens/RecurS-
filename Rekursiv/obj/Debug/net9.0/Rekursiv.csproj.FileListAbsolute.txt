@@ -1,0 +1,14 @@
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\bin\Debug\net9.0\Rekursiv.exe
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\bin\Debug\net9.0\Rekursiv.deps.json
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\bin\Debug\net9.0\Rekursiv.runtimeconfig.json
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\bin\Debug\net9.0\Rekursiv.dll
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\bin\Debug\net9.0\Rekursiv.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.dll
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\refint\Rekursiv.dll
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.pdb
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.genruntimeconfig.cache
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\ref\Rekursiv.dll
