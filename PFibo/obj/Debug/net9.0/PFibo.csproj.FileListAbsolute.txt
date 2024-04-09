@@ -12,3 +12,4 @@ C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\refint\PFibo.dll
 C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.pdb
 C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.genruntimeconfig.cache
 C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\ref\PFibo.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PFibo\obj\Debug\net9.0\PFibo.sourcelink.json

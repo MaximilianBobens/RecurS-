@@ -12,3 +12,4 @@ C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\refint\Rekursiv.
 C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.pdb
 C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.genruntimeconfig.cache
 C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\ref\Rekursiv.dll
+C:\Users\maxim\RiderProjects\Rekursiv\Rekursiv\obj\Debug\net9.0\Rekursiv.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\refint\PFak.dll
 C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.pdb
 C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.genruntimeconfig.cache
 C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\ref\PFak.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PFak\obj\Debug\net9.0\PFak.sourcelink.json

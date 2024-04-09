@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDiv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d759f5b11dc4ffbb9eb50d9aa13b32304c2ecf01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d78cf37c54a18e0b65c12c0aeb9ab18ce046051")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDiv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDiv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

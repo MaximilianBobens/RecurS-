@@ -12,3 +12,4 @@ C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\refint\PGreat.dll
 C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.pdb
 C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.genruntimeconfig.cache
 C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\ref\PGreat.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PGreat\obj\Debug\net9.0\PGreat.sourcelink.json

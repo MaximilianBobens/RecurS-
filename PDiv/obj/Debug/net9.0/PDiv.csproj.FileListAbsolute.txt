@@ -12,3 +12,4 @@ C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\refint\PDiv.dll
 C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.pdb
 C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.genruntimeconfig.cache
 C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\ref\PDiv.dll
+C:\Users\maxim\RiderProjects\Rekursiv\PDiv\obj\Debug\net9.0\PDiv.sourcelink.json
