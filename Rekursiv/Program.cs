@@ -9,6 +9,7 @@ class  Program
         FakutorialExample.Test(7);
         FibonacciExample.Test(10);
         GreatCommonDivisor.Test(20,5);*/
-        DecimalToBinary.CalculateDecimalToBinary(10);
+        Console.WriteLine("test");
+        DecimalToBinary.Test(15);
     }
 }

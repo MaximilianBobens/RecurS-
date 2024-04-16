@@ -11,4 +11,10 @@ public class DecimalToBinary
         else
             return CalculateDecimalToBinary(decimalNumber / 2) + (decimalNumber % 2).ToString();
     }
+
+    public static void Test(int binaryNumber)
+    {
+        string result = CalculateDecimalToBinary(binaryNumber);
+        Console.WriteLine("Binary Number {0}:" ,result);
+    }
 }
